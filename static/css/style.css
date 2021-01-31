@@ -74,6 +74,10 @@ footer{
     width: 100%;
 }
 
+.media-body {
+    padding-top: 2rem;
+}
+
 .sidebar{
     border-right: 1px solid #e6e5e9;
     height: 100vh;
@@ -125,8 +129,24 @@ footer{
     margin-bottom: 1em
 }
 
+ol > li::marker {
+    color: #f48483;
+}
+
 .notice{
     margin-bottom: 2em;
+}
+
+.notice-list li {
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+
+.notice-list.cuidados-list{
+    border-bottom: 0;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    padding-top: 1rem;
 }
 
 .header_big{
