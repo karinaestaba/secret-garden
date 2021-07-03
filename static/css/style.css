@@ -165,6 +165,22 @@ a, h4, .panel-heading i{
     color: #e25c7f;
 }
 
+a:not(.text-white):hover,
+a:not(.text-white):active,
+a:not(.text-white):focus{
+    color: #e25c7f;
+}
+
+a.text-secondary{
+    color: #66b566;
+}
+
+a.text-secondary:hover,
+a.text-secondary:active,
+a.text-secondary:focus{
+    color: #4a8c4a;
+}
+
 .notice-panel-item a{
     color: inherit;
 }
@@ -186,4 +202,13 @@ h4.notice-panel-title{
 
 li.notice-panel-item{
     border-top: 0;
+}
+
+.media-heading{
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 1rem;
+}
+
+.panel-heading i{
+    margin-right: .5rem;
 }
