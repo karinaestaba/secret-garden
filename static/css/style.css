@@ -53,8 +53,8 @@ header .navbar-brand{
     padding: 0;
     color: white;
     /*font-size: 3em;*/
-    font-size: 5em;
-    margin-top: .3em;
+    font-size: 5rem;
+    margin-top: .3rem;
     font-family: 'Sacramento', cursive;
 }
 
