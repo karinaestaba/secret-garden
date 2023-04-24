@@ -7,7 +7,7 @@ Lab. Redesign of an old non-responsive website.
 
 ## Links
 
-- Live Site URL: [Demo](https://karina-estaba.gitlab.io/secret-garden)
+- Live Site URL: [Demo](https://karinaestaba.github.io/secret-garden/)
 
 ## Built with
 
